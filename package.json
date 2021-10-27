@@ -1,0 +1,15 @@
+{
+  "name": "example-bot",
+  "version": "1.0.0",
+  "description": "Um bot para o Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mokusei",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
