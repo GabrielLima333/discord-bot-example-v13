@@ -11,5 +11,5 @@ Example of how to build a bot base with djs v13
 4. To activate the bot use the command ```node .```
 
 ## Technically used:
-• <a href="https://discord.js.org/#/">Discord.js Docs</a>
-• <a href="https://discord.com/developers/applications">Discord Developer</a>
+ * [Discord.js Docs](https://discord.js.org/#/)
+ * [Discord Developer](https://discord.com/developers/applications)
